@@ -1,0 +1,16 @@
+.buttons{
+    position:absolute;
+    top:50%;
+    transform: translateY(-50%);
+    left:50%;
+    transform: translateX(-50%);
+}
+body{
+    background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ 
+}
+.btn{
+    border-radius:30px;
+    background-color: #3494e6;
+    color: white;
+}

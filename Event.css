@@ -1,0 +1,14 @@
+.div4{
+    background-color: transparent;
+}
+body{
+    background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.table1{
+background-color: transparent;
+border:black;
+color:white !important;
+margin-top:3rem;
+height:100vh;
+}
